@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud engineering
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on aws and other cloud providers
-- 📫 How to reach me o  my email 'yusufolamilekanoyedele@gmail.com'
+- 📫 How to reach me o  my email 'ola@itservices.co.uk'
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
