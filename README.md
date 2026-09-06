@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olami24-tech
+- 👋 Hi, I’m @Olami24
 - 👀 I’m interested in Cloud engineering
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on aws and other cloud providers
