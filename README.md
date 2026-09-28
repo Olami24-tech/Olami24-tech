@@ -73,6 +73,9 @@ AWS VPC, EC2 and RDS infrastructure built using AWS CDK with TypeScript.
 ## 📫 Contact
 
 📧 ola@olaitservices.co.uk
+Linkedln www.linkedin.com/in/
+yusuf-oyedele-olamilekan
+
 
 ---
 
